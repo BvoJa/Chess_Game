@@ -1,5 +1,5 @@
 ## Guide to use 
-Clone the repo locally and then click ChessGame.exe to run
+Clone this repo locally and then click ChessGame.exe to play
 
 ## Project Structure
 
